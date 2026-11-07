@@ -24,11 +24,17 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vardhchhajer&layout=compact&theme=nightowl&hide_border=true&langs_count=10" alt="Top Languages" />
 </p>
 
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=vardhchhajer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6" alt="Vardh's GitHub Trophies" width="100%" />
+  <img
+    src="https://github-profile-trophy-liard-delta.vercel.app/?username=vardhchhajer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6"
+    alt="Vardh's GitHub Trophies"
+    width="100%"
+  />
 </p>
+
 
 ### 📈 Contribution Overview
 
