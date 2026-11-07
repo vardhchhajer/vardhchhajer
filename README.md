@@ -3,7 +3,7 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 💡 <em>✏️ A sentence about you and what you do.</em>
+- 💡 <em>✏️ I build systems that think.</em>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -54,4 +54,4 @@
   <!---->
 </div>
 
-<p align="center"><sub>Vardh Chhajer · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Vardh Chhajer ·</sub></p>
